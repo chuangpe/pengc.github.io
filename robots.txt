@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pengchuang.github.io/sitemap.xml
+Sitemap: https://pengc.github.io/sitemap.xml
